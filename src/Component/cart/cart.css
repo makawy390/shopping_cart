@@ -1,0 +1,12 @@
+.shopping{
+  min-height: 100vh;
+  padding: 30px 0;
+  margin-bottom: 70px;
+}
+.img-cart{
+    /* max-width: 300px; */
+    max-height: 250px !important;
+}
+.shop{
+  padding: 80px 0;
+}

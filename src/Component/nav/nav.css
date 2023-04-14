@@ -1,0 +1,32 @@
+
+#icon{
+    font-size: 30px;
+}
+.css-1bjk3jo-MuiButtonBase-root-MuiBottomNavigationAction-root.Mui-selected{
+    color: #E91E63 !important;
+}
+.css-1nv7fje{
+    width: 100% !important;
+    display: flex !important;
+}
+.MuiBottomNavigation-root {
+    position: fixed !important;
+    width: 100%;
+    bottom: 0;
+    z-index: 1001;
+    background-color: #eceff1 !important;
+}
+
+.amount{
+    position: relative;
+    left: 110px;
+    top: 3px;
+    background-color: #c2185b;
+    min-width: 20px;
+    height: 20px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
